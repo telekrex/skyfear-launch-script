@@ -5,7 +5,7 @@
 # safe, compatibile environment, in which
 # to run Skyfear on Windows (works with
 # proton as well). Details and reasons for
-# this are in the README.txt that should be
+# this are in the README that should be
 # included if you're reading this source
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -49,8 +49,9 @@ def launch_game(path):
 
 def main():
     # print some pretty text on screen because
-    print("/// Skyfear Compatibility Launcher")
-    print("/// Source code: https://github.com/Protoria-Studios/skyfear-launch-script")
+    print("/// Fossil: Skyfear Compatibility Launcher")
+    print("/// Source code: https://github.com/Protoria-Studios/fossil")
+    print("/// MIT License (c) 2026 Protoria Studios")
     # just looks nice and professional and provides a link to learn about the software
 
     # set a variable game_path to the current working directory that this
