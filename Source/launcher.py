@@ -1,4 +1,4 @@
-# Skyfear Compatibility Launcher
+# Fossil: Skyfear Compatibility Launcher
 # Written by telekrex @ Protoria Studios LLC
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # A binary script designed to establish a
